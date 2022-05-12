@@ -23,5 +23,5 @@ public class ContactTest
   {
 	  System.out.println("===Contact is deleted==");
   }
-
+	  System.out.println("===Contact is deleted==");
 }
