@@ -18,7 +18,6 @@ public class ContactTest
   @Test(groups = "RegressionTest")
   public void deletecontactTest()
   {
-	  System.out.println("===Contact is deleted==");
+	  System.out.println("===Contact is deleted==")   
   }
-	  System.out.println("===Contact is deleted==");
 }
