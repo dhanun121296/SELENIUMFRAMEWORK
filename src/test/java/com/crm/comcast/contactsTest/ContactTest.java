@@ -9,15 +9,12 @@ public class ContactTest
   {
 	  System.out.println("===Contact is created=="+System.getProperty("browser"));
 	 
-  }  
-   //Update
+  } 
   @Test(groups = "RegressionTest")
   public void editcontactTest() 
   {
 	  System.out.println("===Contact is edited==");
   }
-  
-  //Test case is updated
   @Test(groups = "RegressionTest")
   public void deletecontactTest()
   {
